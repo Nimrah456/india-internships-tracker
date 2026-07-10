@@ -11,7 +11,27 @@ so listings are as fresh and accurate as the companies' own careers sites.
 ---
 
 <!-- INTERNSHIPS:START -->
-_Last updated: not yet run — trigger the "Update Internship Listings" GitHub Action, or wait for the daily schedule._
+_Last updated: **10 Jul 2026, 06:18 UTC** · 0 open roles found_
+
+### 💻 Tech Internships
+
+_No open tech internships found in the last run._
+
+### 📊 Quant Internships
+
+_No open quant internships found in the last run._
+
+<details><summary>⚠️ Companies skipped this run (config needs fixing)</summary>
+
+- Two Sigma: HTTP 404 (check token 'twosigma' in companies.json)
+- Hudson River Trading: HTTP 404 (check token 'hudsonrivertrading' in companies.json)
+- DRW: HTTP 404 (check token 'drw' in companies.json)
+- Razorpay: HTTP 404 (check token 'razorpay' in companies.json)
+- Chargebee: HTTP 404 (check token 'chargebee' in companies.json)
+- Rippling: HTTP 404 (check token 'rippling' in companies.json)
+
+</details>
+
 <!-- INTERNSHIPS:END -->
 
 ---
