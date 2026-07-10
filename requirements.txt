@@ -1,0 +1,4 @@
+# scripts/scraper.py and update_readme.py currently use only the Python
+# standard library (urllib, json) so there are no third-party dependencies.
+# This file is kept as a placeholder for future adapters (e.g. requests,
+# beautifulsoup4) that may be added for companies without a public JSON API.

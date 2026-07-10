@@ -1,0 +1,31 @@
+{
+  "_comment": "ats: 'greenhouse' or 'lever'. 'token' is the board token found in the company's careers URL, e.g. boards.greenhouse.io/<token> or jobs.lever.co/<token>. Set enabled:false for unverified entries until you've confirmed the token works (see CONTRIBUTING.md). category: 'tech' or 'quant'.",
+
+  "companies": [
+    { "name": "Jane Street", "ats": "greenhouse", "token": "janestreet", "category": "quant", "enabled": true },
+    { "name": "Two Sigma", "ats": "greenhouse", "token": "twosigma", "category": "quant", "enabled": true },
+    { "name": "Hudson River Trading", "ats": "greenhouse", "token": "hudsonrivertrading", "category": "quant", "enabled": true },
+    { "name": "Tower Research Capital", "ats": "greenhouse", "token": "towerresearchcapital", "category": "quant", "enabled": true },
+    { "name": "DRW", "ats": "greenhouse", "token": "drw", "category": "quant", "enabled": true },
+    { "name": "Akuna Capital", "ats": "greenhouse", "token": "akunacapital", "category": "quant", "enabled": true },
+
+    { "name": "Razorpay", "ats": "greenhouse", "token": "razorpay", "category": "tech", "enabled": true },
+    { "name": "Postman", "ats": "greenhouse", "token": "postman", "category": "tech", "enabled": true },
+    { "name": "Zeta", "ats": "lever", "token": "zeta", "category": "tech", "enabled": true },
+    { "name": "Chargebee", "ats": "greenhouse", "token": "chargebee", "category": "tech", "enabled": true },
+    { "name": "Rippling", "ats": "greenhouse", "token": "rippling", "category": "tech", "enabled": true },
+
+    { "name": "Jump Trading", "ats": "greenhouse", "token": "jumptrading", "category": "quant", "enabled": false },
+    { "name": "IMC Trading", "ats": "greenhouse", "token": "imctrading", "category": "quant", "enabled": false },
+    { "name": "Graviton Research Capital", "ats": "greenhouse", "token": "graviton", "category": "quant", "enabled": false },
+    { "name": "WorldQuant", "ats": "greenhouse", "token": "worldquant", "category": "quant", "enabled": false },
+    { "name": "Optiver", "ats": "greenhouse", "token": "optiver", "category": "quant", "enabled": false },
+    { "name": "Citadel Securities", "ats": "greenhouse", "token": "citadelsecurities", "category": "quant", "enabled": false },
+
+    { "name": "Atlassian", "ats": "greenhouse", "token": "atlassian", "category": "tech", "enabled": false },
+    { "name": "Flipkart", "ats": "greenhouse", "token": "flipkart", "category": "tech", "enabled": false },
+    { "name": "Swiggy", "ats": "greenhouse", "token": "swiggy", "category": "tech", "enabled": false },
+    { "name": "CRED", "ats": "lever", "token": "cred", "category": "tech", "enabled": false },
+    { "name": "Uber", "ats": "greenhouse", "token": "uber", "category": "tech", "enabled": false }
+  ]
+}
