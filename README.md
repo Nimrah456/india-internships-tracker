@@ -11,7 +11,7 @@ so listings are as fresh and accurate as the companies' own careers sites.
 ---
 
 <!-- INTERNSHIPS:START -->
-_Last updated: **20 Aug 2026, 04:28 UTC** · 0 open roles found_
+_Last updated: **21 Aug 2026, 04:29 UTC** · 1 open roles found_
 
 ### 💻 Tech Internships
 
@@ -19,7 +19,9 @@ _No open tech internships found in the last run._
 
 ### 📊 Quant Internships
 
-_No open quant internships found in the last run._
+| Company | Role | Location | Link |
+|---|---|---|---|
+| Tower Research Capital | Intern - AI/ML 🆕 | gurgaon | [Apply](https://www.tower-research.com/open-positions/?gh_jid=8143756) |
 
 <details><summary>⚠️ Companies skipped this run (config needs fixing)</summary>
 
