@@ -11,7 +11,7 @@ so listings are as fresh and accurate as the companies' own careers sites.
 ---
 
 <!-- INTERNSHIPS:START -->
-_Last updated: **31 Aug 2026, 10:17 UTC** · 1 open roles found_
+_Last updated: **01 Sep 2026, 09:01 UTC** · 1 open roles found_
 
 ### 💻 Tech Internships
 
