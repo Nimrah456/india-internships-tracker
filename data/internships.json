@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-09-16T08:57:19.756065+00:00",
-  "count": 1,
+  "generated_at": "2026-09-17T09:02:37.255222+00:00",
+  "count": 2,
   "internships": [
     {
       "company": "Tower Research Capital",
@@ -9,7 +9,16 @@
       "location": "gurgaon",
       "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
       "first_seen": "2026-08-21T04:29:33.782322+00:00",
-      "last_checked": "2026-09-16T08:57:19.756065+00:00"
+      "last_checked": "2026-09-17T09:02:37.255222+00:00"
+    },
+    {
+      "company": "Zeta",
+      "category": "tech",
+      "title": "Product Management - Intern",
+      "location": "Bangalore - EC",
+      "url": "https://jobs.lever.co/zeta/72ee1884-8e8b-447b-ab96-aa76605b5f4a",
+      "first_seen": "2026-09-17T09:02:37.255222+00:00",
+      "last_checked": "2026-09-17T09:02:37.255222+00:00"
     }
   ],
   "errors": [
@@ -17,6 +26,7 @@
     "Hudson River Trading: HTTP 404 (check token 'hudsonrivertrading' in companies.json)",
     "DRW: HTTP 404 (check token 'drw' in companies.json)",
     "Razorpay: HTTP 404 (check token 'razorpay' in companies.json)",
+    "Postman: HTTP 404 (check token 'postman' in companies.json)",
     "Chargebee: HTTP 404 (check token 'chargebee' in companies.json)",
     "Rippling: HTTP 404 (check token 'rippling' in companies.json)"
   ]

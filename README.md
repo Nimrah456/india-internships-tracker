@@ -11,11 +11,13 @@ so listings are as fresh and accurate as the companies' own careers sites.
 ---
 
 <!-- INTERNSHIPS:START -->
-_Last updated: **16 Sep 2026, 08:57 UTC** · 1 open roles found_
+_Last updated: **17 Sep 2026, 09:02 UTC** · 2 open roles found_
 
 ### 💻 Tech Internships
 
-_No open tech internships found in the last run._
+| Company | Role | Location | Link |
+|---|---|---|---|
+| Zeta | Product Management - Intern 🆕 | Bangalore - EC | [Apply](https://jobs.lever.co/zeta/72ee1884-8e8b-447b-ab96-aa76605b5f4a) |
 
 ### 📊 Quant Internships
 
@@ -29,6 +31,7 @@ _No open tech internships found in the last run._
 - Hudson River Trading: HTTP 404 (check token 'hudsonrivertrading' in companies.json)
 - DRW: HTTP 404 (check token 'drw' in companies.json)
 - Razorpay: HTTP 404 (check token 'razorpay' in companies.json)
+- Postman: HTTP 404 (check token 'postman' in companies.json)
 - Chargebee: HTTP 404 (check token 'chargebee' in companies.json)
 - Rippling: HTTP 404 (check token 'rippling' in companies.json)
 
