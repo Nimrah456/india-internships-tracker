@@ -11,13 +11,11 @@ so listings are as fresh and accurate as the companies' own careers sites.
 ---
 
 <!-- INTERNSHIPS:START -->
-_Last updated: **24 Sep 2026, 08:52 UTC** · 2 open roles found_
+_Last updated: **25 Sep 2026, 09:13 UTC** · 1 open roles found_
 
 ### 💻 Tech Internships
 
-| Company | Role | Location | Link |
-|---|---|---|---|
-| Zeta | Product Management - Intern | Bangalore - EC | [Apply](https://jobs.lever.co/zeta/72ee1884-8e8b-447b-ab96-aa76605b5f4a) |
+_No open tech internships found in the last run._
 
 ### 📊 Quant Internships
 
