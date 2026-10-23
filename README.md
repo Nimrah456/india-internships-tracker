@@ -11,7 +11,7 @@ so listings are as fresh and accurate as the companies' own careers sites.
 ---
 
 <!-- INTERNSHIPS:START -->
-_Last updated: **22 Oct 2026, 09:02 UTC** · 1 open roles found_
+_Last updated: **23 Oct 2026, 08:57 UTC** · 1 open roles found_
 
 ### 💻 Tech Internships
 
@@ -30,7 +30,6 @@ _No open tech internships found in the last run._
 - DRW: HTTP 404 (check token 'drw' in companies.json)
 - Razorpay: HTTP 404 (check token 'razorpay' in companies.json)
 - Postman: HTTP 404 (check token 'postman' in companies.json)
-- Zeta: The read operation timed out
 - Chargebee: HTTP 404 (check token 'chargebee' in companies.json)
 - Rippling: HTTP 404 (check token 'rippling' in companies.json)
 
