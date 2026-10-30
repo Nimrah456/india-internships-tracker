@@ -1,17 +1,7 @@
 {
-  "generated_at": "2026-10-29T10:35:56.639933+00:00",
-  "count": 1,
-  "internships": [
-    {
-      "company": "Tower Research Capital",
-      "category": "quant",
-      "title": "Intern - AI/ML",
-      "location": "Gurgaon",
-      "url": "https://www.tower-research.com/open-positions/?gh_jid=8143756",
-      "first_seen": "2026-08-21T04:29:33.782322+00:00",
-      "last_checked": "2026-10-29T10:35:56.639933+00:00"
-    }
-  ],
+  "generated_at": "2026-10-30T10:37:46.482591+00:00",
+  "count": 0,
+  "internships": [],
   "errors": [
     "Two Sigma: HTTP 404 (check token 'twosigma' in companies.json)",
     "Hudson River Trading: HTTP 404 (check token 'hudsonrivertrading' in companies.json)",
